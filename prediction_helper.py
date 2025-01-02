@@ -1,13 +1,9 @@
 import pandas as pd
 import joblib
 
-# Paths for the model and scaler
-model_path = "/Users/gokulb/Downloads/ML-Project-Healthcare-Prediction/artifacts1/model.joblib"
-scaler_path = "/Users/gokulb/Downloads/ML-Project-Healthcare-Prediction/artifacts1/scaler.joblib"
-
 # Load the model and scaler
-model = joblib.load(model_path)
-scaled = joblib.load(scaler_path)
+model = joblib.load("artifacts1/model.joblib")
+scaled = joblib.load("artifacts1/scaler.joblib")
 
 # Function to calculate normalized risk score
 def calculate_normalized_risk(medical_history):
