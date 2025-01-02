@@ -2,8 +2,8 @@ import pandas as pd
 import joblib
 
 # Paths for the model and scaler
-model_path = "/Users/gokulb/Downloads/app1/artifacts1\model.joblib"
-scaler_path = "/Users/gokulb/Downloads/app1/artifacts1\scaler.joblib"
+model_path = r"\Users\gokulb\Downloads\app1\artifacts1\model.joblib"
+scaler_path = r"\Users\gokulb\Downloads\app1\artifacts1\scaler.joblib"
 
 # Load the model and scaler
 model = joblib.load(model_path)
