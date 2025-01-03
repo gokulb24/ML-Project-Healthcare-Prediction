@@ -1,6 +1,6 @@
 # Healthcare Prediction Project
 
-## Overview
+### Overview
 
 This project aims to predict healthcare outcomes using a combination of exploratory data analysis, feature engineering, and machine learning models. The project achieves an impressive 99% accuracy with an error rate of less than 5% using Linear Regression and XGBoost models. Additionally, a web application was developed using Streamlit and deployed on Streamlit Cloud for easy accessibility.
 
