@@ -37,7 +37,7 @@ This project aims to predict healthcare outcomes using a combination of explorat
 ### Deployment
 	•	Deployed the web application on Streamlit Cloud.
 	•	Accessible to users with a seamless and intuitive experience.
-                Live Demo: https://ml-project-healthcare-prediction-gokulb.streamlit.app
+        Live Demo: https://ml-project-healthcare-prediction-gokulb.streamlit.app
 
 ## Conclusion
 
