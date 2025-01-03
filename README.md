@@ -28,16 +28,15 @@ This project aims to predict healthcare outcomes using a combination of explorat
 	•	Fine-tuned the XGBoost model to maximize performance.
 
 ### Web Application
-	•	Developed a user-friendly interface using Streamlit.
-	•	Features include:
-	•	Input form for user data.
-	•	Dynamic predictions and visualizations.
-	•	Simplified complex machine learning outputs for end-users.
+	•	Live Demo: https://ml-project-healthcare-prediction-gokulb.streamlit.app
+	•	Features of the app:
+	•	Input user data to get dynamic predictions.
+	•	Visualizations and insights for better understanding.
 
 ### Deployment
 	•	Deployed the web application on Streamlit Cloud.
 	•	Accessible to users with a seamless and intuitive experience.
-        Live Demo: https://ml-project-healthcare-prediction-gokulb.streamlit.app
+       
 
 ## Conclusion
 
